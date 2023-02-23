@@ -20,7 +20,7 @@ function App() {
   return (
     <>
       <Header titulo="HELLO WORLD" subtitulo="Outro texto" />
-      <Header titulo="HELLO WORLD" subtitulo="Outro subtitulo"/>
+      <h1>Testando</h1>
     </>
   )
 }
