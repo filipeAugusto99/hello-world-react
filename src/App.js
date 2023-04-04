@@ -1,9 +1,9 @@
 import React from "react"
-import Header from "./Header"
-import Content from "./Content"
+import Header from "./partials/Header"
+import Content from "./components/Content"
 
-import Cards from "./Cards"
-import Card from "./Card"
+import Cards from "./components/Cards"
+import Card from "./components/Card"
 
 import reactImg from "./imagens/react.png"
 import nodejsImg from "./imagens/nodejs.png"
